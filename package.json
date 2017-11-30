@@ -1,0 +1,19 @@
+{
+  "name": "fileMetadata",
+  "description": "returns file metadata",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "boostrap": "^2.0.0",
+    "ejs": "~1.0.0",
+    "express": "~4.9.8",
+    "multer": "^1.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
